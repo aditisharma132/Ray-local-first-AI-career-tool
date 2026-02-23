@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #0f172a;
+    /* Slate 900 for premium dark theme */
+    color: #f8fafc;
+    /* Slate 50 */
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}

@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+ollama
+PyPDF2
+fastapi
+uvicorn
+python-multipart
+websockets
+mcp
